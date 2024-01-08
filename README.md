@@ -2,6 +2,10 @@
 
 ---
 
+Link to Executable Jupyter Notebook: [here]("[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rishi-m100/nfl_predictions/HEAD?labpath=nfl.ipynb)")
+
+---
+
 Dataset: [NFL Stats 2012-2022](https://www.kaggle.com/datasets/philiphyde1/nfl-stats-1999-2022/data)
 
 ---
