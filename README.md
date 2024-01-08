@@ -1,5 +1,10 @@
 # NFL Predictions
 
+---
+
+Dataset: [here](https://www.kaggle.com/datasets/philiphyde1/nfl-stats-1999-2022/data)
+
+---
 
 ## NFL Predictions (WR to receiving yards)
 ---
