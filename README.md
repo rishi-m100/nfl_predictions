@@ -2,7 +2,10 @@
 
 ---
 
-Link to Executable Jupyter Notebook: [here]("[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rishi-m100/nfl_predictions/HEAD?labpath=nfl.ipynb)")
+Link to Executable Jupyter Notebook: [here](https://mybinder.org/v2/gh/rishi-m100/nfl_predictions/HEAD?labpath=nfl.ipynb)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rishi-m100/nfl_predictions/HEAD?labpath=nfl.ipynb)
 
 ---
 
