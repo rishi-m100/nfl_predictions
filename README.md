@@ -2,7 +2,7 @@
 
 ---
 
-Dataset: [here](https://www.kaggle.com/datasets/philiphyde1/nfl-stats-1999-2022/data)
+Dataset: [NFL Stats 2012-2022](https://www.kaggle.com/datasets/philiphyde1/nfl-stats-1999-2022/data)
 
 ---
 
